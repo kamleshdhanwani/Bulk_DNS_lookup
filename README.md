@@ -67,14 +67,6 @@ To run the script, open your terminal and execute:
 
 You will be presented with a menu to manage Docker containers and images.
 
-# Dockerfile Automation
-
-The script also provides functionality to build and run Docker images from Dockerfiles:
-- Option 10: Build a Docker image from a Dockerfile.
-- Option 11: Build and run a Docker container from a Dockerfile.
-
-You can specify the Dockerfile path and image tag to automate the Docker build and run process.
-
  Commands 🖥️
 
 Here are the available options in the interactive script:
